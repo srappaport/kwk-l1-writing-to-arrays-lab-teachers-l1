@@ -1,3 +1,5 @@
+## Raising an issue here: is there any way to make the tests more flexible for this lab? For example, I would like students to be able to be able to call "rainbow_colors" as an argument, so students could truly reassign entries rather than just create a new rainbow_colors for each method? 
+
 require_relative './spec_helper.rb'
 require_relative '../editing_arrays.rb'
 require 'colorize'
